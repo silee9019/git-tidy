@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editors
+.idea/
+.vscode/
+*.sublime-workspace
+*.sw[a-p]
+*~
+
+# Claude Code
+.claude/*
+!.claude/settings.json
